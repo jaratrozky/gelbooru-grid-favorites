@@ -11,7 +11,7 @@ Favorite posts straight from the thumbnail grid. Includes cached heart states, f
 ## Install
 
 1. Install a userscript manager such as [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/), or [ScriptCat](https://scriptcat.org/).
-2. Download the [1.0.0 userscript](https://github.com/jaratrozky/gelbooru-grid-favorites/releases/download/v1.0.0/gelbooru-grid-favorites.user.js) and import it into your manager, or create a script and paste [the source](gelbooru-grid-favorites.user.js). If upgrading, export your cache first and replace the existing script instead of enabling a second copy.
+2. Download the [userscript](https://github.com/jaratrozky/gelbooru-grid-favorites/releases/download/v1.0.0/gelbooru-grid-favorites.user.js) and import it into your manager, or create a script and paste [the source](gelbooru-grid-favorites.user.js). If upgrading, export your cache first and replace the existing script instead of enabling a second copy.
 3. Open Gelbooru while logged in, then choose **Scrape favorites (full)** from the script's menu in your userscript manager.
 
 No build step or dependencies to install.
